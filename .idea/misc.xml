@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectKey">
-    <option name="state" value="project://e79810c8-c5c8-43b1-b19c-90c1f4095425" />
-  </component>
-<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="JDK-11" project-jdk-type="JavaSDK">
-=======
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="11" project-jdk-type="JavaSDK">
->>>>>>> 385480d8c5c8b07d9a8047623d90f59741b124b9
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

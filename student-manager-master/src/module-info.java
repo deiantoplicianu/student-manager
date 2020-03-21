@@ -1,6 +1,6 @@
-module StudentManager {
+/*module StudentManager {
     requires javafx.fxml;
     requires javafx.controls;
 
     opens sample;
-}
+}*/

@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/StudentManager.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loose.oose.fis.lab.student.manager/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ant.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loose.oose.fis.lab.student.manager/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/loose.oose.fis.lab.student.manager/sample.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +56,14 @@
   <component name="FavoritesManager">
     <favorites_list name="JavaFxApplication" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
@@ -76,7 +76,7 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1ZR4DKXIbnd2CYmqnzUJd5XZQUj" />
+  <component name="ProjectId" id="1ZR3WbU5EjnEm7eLjuYU0wApvEr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
@@ -94,20 +94,18 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="OverrideImplement.combined" value="false" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/sample" />
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/loose.oose.fis.lab.student.manager" />
+      <recent name="$PROJECT_DIR$/src/loose/oose/fis/lab/student/manager/fxml" />
     </key>
   </component>
   <component name="RunManager">
@@ -138,6 +136,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="loose.oose.fis.lab.student.manager.Main" />
+      <module name="StudentManager" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sample.*" />
@@ -210,45 +209,33 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="315" y="45" key="#Main" timestamp="1584798859068">
+    <state x="240" y="67" key="#Project_Structure" timestamp="1584805238547">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="315" y="45" key="#Main/0.0.1280.800@0.0.1280.800" timestamp="1584798859068" />
-    <state x="320" y="115" key="#Project_Structure" timestamp="1584789163206">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1584789163206" />
-    <state x="104" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584798957380">
+    <state x="240" y="67" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1584805238547" />
+    <state x="104" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584802626687">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="104" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1584798957380" />
-    <state x="473" y="308" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584798845526">
+    <state x="104" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1584802626687" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1584813588100">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="473" y="308" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.800@0.0.1280.800" timestamp="1584798845526" />
-    <state x="288" y="5" key="CommitChangelistDialog2" timestamp="1584798477435">
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1584813588100" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1584813588098">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="288" y="5" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1584798477435" />
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1584796048958">
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1584813588098" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1584813588097">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1584796048958" />
-    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1584796048957">
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1584813588097" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1584813588099">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1584796048957" />
-    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1584796048957">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1584813588099" />
+    <state x="295" y="33" width="689" height="708" key="find.popup" timestamp="1584788446979">
+      <screen x="0" y="23" width="1280" height="727" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1584796048957" />
-    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1584796048958">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1584796048958" />
-    <state x="413" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1584788463979">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="413" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1584788463979" />
+    <state x="295" y="33" width="689" height="708" key="find.popup/0.23.1280.727@0.23.1280.727" timestamp="1584788446979" />
   </component>
 </project>

@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b28f4209-03e4-48d5-aca5-0da6a8f3dfe9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/student-manager-master/loose/oose/fis/lab/student/manager/fxml/view-students.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/student-manager-master/loose/oose/fis/lab/student/manager/fxml/view-students.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loose/oose/fis/lab/student/manager/fxml/view-students.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/loose/oose/fis/lab/student/manager/fxml/view-students.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

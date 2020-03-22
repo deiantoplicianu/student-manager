@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b28f4209-03e4-48d5-aca5-0da6a8f3dfe9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/StudentManager.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StudentManager.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/StudentManager/META-INF/StudentManager.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/StudentManager/loose/oose/fis/lab/student/manager/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/StudentManager/loose/oose/fis/lab/student/manager/controllers/LoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/StudentManager/loose/oose/fis/lab/student/manager/controllers/ViewStudentsController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/StudentManager/loose/oose/fis/lab/student/manager/fxml/login.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/StudentManager/loose/oose/fis/lab/student/manager/fxml/view-students.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/StudentManager/loose/oose/fis/lab/student/manager/model/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/loose/oose/fis/lab/student/manager/controllers/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/loose/oose/fis/lab/student/manager/fxml/login.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loose/oose/fis/lab/student/manager/controllers/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loose/oose/fis/lab/student/manager/fxml/login.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files/student-manager-use-cases.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files/student-manager.yuml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loose/oose/fis/lab/student/manager/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/Files/loose/oose/fis/lab/student/manager/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loose/oose/fis/lab/student/manager/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loose/oose/fis/lab/student/manager/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loose/oose/fis/lab/student/manager/sample.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/module-info.java" beforeDir="false" />
-    </list>
+    <list default="true" id="b28f4209-03e4-48d5-aca5-0da6a8f3dfe9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,21 +84,21 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1584807651927" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1584856316262">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1584883377165">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584856316262" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1584856316260">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584883377165" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1584883377164">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584856316260" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1584856316258">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584883377164" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1584883377163">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584856316258" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1584856316261">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584883377163" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1584883377164">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584856316261" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584883377164" />
   </component>
 </project>
